@@ -1,9 +1,14 @@
-# code-challenge1
+# Guestbook challenge no1
 
-Code challenge no.1 - Create a Guestbook.
+## Goals
 
-You find all the information about the challenge in Notion, Github is only used to make code reviews on each other.  
+- Log in
+- Write messages
+- View written messages
+- Edit and remove their own messages
+- Integrate with other people's messages by liking them
+- The data should in some way be saved
 
-1. Fork this project
-2. Write your code
-3. Commit & make a pull request for review
+## Stretch goal
+
+- Log in with an OAuth-account.
